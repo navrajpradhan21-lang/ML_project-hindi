@@ -1,0 +1,4 @@
+1. create file ,git repo...etc etc 
+2. create setup.py , write all the code and then in terminal python setup.py install 
+    after that create src folder
+3. git add . , git commit -m "first setup", git push origin main    
